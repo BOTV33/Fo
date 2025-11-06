@@ -327,7 +327,7 @@ module.exports.handleEvent = async function ({ api, event }) {
 
       if (!arr) {
 
-        return api.sendMessage("হ্যাঁ বলো জানু তোমার জন্য কি করতে পারি 🥰 ", event.threadID, (error, info) => {
+        return api.sendMessage("আমি এই যে বলো সোনা তোমার জন্য কি করতে পারি 🥰", event.threadID, (error, info) => {
 
           global.client.handleReply.push({
 
