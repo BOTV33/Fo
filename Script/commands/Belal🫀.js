@@ -19,7 +19,6 @@ const link = [
   "https://i.imgur.com/fAlm0xd.mp4",
   "https://i.imgur.com/jwY1tI4.mp4",
 ];
-];
 
 module.exports.config = {
  name: "🫀",
